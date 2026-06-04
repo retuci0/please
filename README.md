@@ -15,7 +15,7 @@ also i wanted to make something useful in C
 ```bash 
 # compile
 make
-# setsownership to root and add setuid bit
+# set ownership to root and add setuid bit
 sudo make install
 ```
 

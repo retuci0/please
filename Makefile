@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -O2 -Wall -Werror
 LDLIBS = -lcrypt
-TARGET = please
+TARGET = bin/please
 SRC = please.c
 
 all: $(TARGET)
